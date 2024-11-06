@@ -4,7 +4,18 @@
 </div>
 
 
+## 🗂️ Submitted By
+**Group 14:**
 
+Aaditya Karki - 2022IMT001
+
+Ayush Sah - 2022IMT026
+
+Hiren Sharma - 2022IMT051
+
+Krishi Agarwal - 2022IMT121
+
+## 👋 Introduction
 
 FundDefi is a decentralized application (DApp) that enables users to create and manage fundraising campaigns on the Ethereum blockchain.
 
@@ -44,18 +55,20 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-    ```
+   ```
    
 2.  **Install dependencies**:
-   ```bash
-npm install
-```
+       ```bash
+    npm install
+    ```
 
-3. **Deploy the contract**:
+4. **Deploy the contract**:
    ```bash
-    npx hardhat run scripts/deploy.js --network your-network ```
+    npx hardhat run scripts/deploy.js --network your-network
+    ```
 
-4. **Start the Next.js Frontend**:
+5. **Start the Next.js Frontend**:
    ```bash
-    npm run dev```
-5. Access the DApp: Open your browser and navigate to http://localhost:3000
+    npm run dev
+   ```
+6. Access the DApp: Open your browser and navigate to http://localhost:3000
